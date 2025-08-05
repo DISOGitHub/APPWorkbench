@@ -1,0 +1,14 @@
+QTabBar::tab{
+    background: #F0F0F0;
+    border: 1px solid #C4C4C3;
+    height: 30px;
+	min-width:40ex;
+	font: 10pt "Consolas";
+}
+QTabBar::tab:selected {
+    background: #FFFFFF;
+}
+QTabWidget::pane 
+{
+	border: none; 
+}

@@ -1,0 +1,8 @@
+﻿#pragma once
+#include <QtCore/QtGlobal>
+
+#ifdef GUI_FRAME_DEFINE
+#define GUI_FRAME_API Q_DECL_EXPORT
+#else
+#define GUI_FRAME_API Q_DECL_IMPORT
+#endif

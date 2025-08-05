@@ -1,0 +1,6 @@
+[submodule "FITK_Kernel/FITKAppFramework"]
+	path = FITK_Kernel/FITKAppFramework
+	url = https://atomgit.com/fastcaecodebase/FITKAppFramework.git
+[submodule "FITK_Kernel/FITKCore"]
+	path = FITK_Kernel/FITKCore
+	url = https://atomgit.com/fastcaecodebase/FITKCore.git
